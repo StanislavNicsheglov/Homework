@@ -1,0 +1,14 @@
+.icons {
+    display: flex;
+}
+
+.icons>a {
+    color: #3157dc;
+    background-color: #FFF;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
